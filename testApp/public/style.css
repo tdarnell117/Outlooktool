@@ -1,0 +1,26 @@
+body {
+    padding-top: 70px;
+  }
+
+#token-display {
+  visibility: hidden;
+}
+
+/* .contentLeft {
+  display: block;
+  border: 1px solid black;
+} */
+
+.terms {
+ margin-top: 10px;
+ font-weight: bold;
+}
+
+.current {
+  color: green;
+}
+
+#pagin li {
+  display: inline-block;
+}
+
